@@ -6,6 +6,10 @@ module.exports = {
         body: ['system-ui', 'sans-serif'],
     },
     colors: {
+      white:'#ffffff',
+      blue:'#00b0b7',
+      lightBlue:'#00c4cc',
+      darkBlue:'#10616d',
       primary: {
         50: '#eff6ff',
         100: '#dbeafe',
